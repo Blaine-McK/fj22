@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49a5e23300e3def4ba44ee96f39bfc59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpSound: {instanceID: 0}
+  - bopSound: {fileID: 8300000, guid: c142d104a03adfd448bfa824f4734388, type: 3}
+  - deathSound: {fileID: 8300000, guid: 22720187be4fa8b48a4ad64b5c8bf9e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
